@@ -1,22 +1,22 @@
 [
     {
         "id": 1,
-        "url": "https://prongbang.github.io/travel/api/v1/banner/1.png",
+        "url": "https://prongbang.github.io/travel/api/v1/banner/image/1.png",
         "type": "image"
     },
     {
         "id": 2,
-        "url": "https://prongbang.github.io/travel/api/v1/banner/2.png",
+        "url": "https://prongbang.github.io/travel/api/v1/banner/image/1.png",
         "type": "web"
     },
     {
         "id": 3,
-        "url": "https://prongbang.github.io/travel/api/v1/banner/3.png",
+        "url": "https://prongbang.github.io/travel/api/v1/banner/image/1.png",
         "type": "image"
     },
     {
         "id": 4,
-        "url": "https://prongbang.github.io/travel/api/v1/banner/4.png",
+        "url": "https://prongbang.github.io/travel/api/v1/banner/image/1.png",
         "type": "image"
     }
 ]
