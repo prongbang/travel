@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "Sea",
+    "slug": "Sea",
+    "image": "https://prongbang.github.io/travel/api/v1/category/image/ic_sunset.svg"
+  },
+  {
+    "id": 2,
+    "name": "Forest",
+    "slug": "Forest",
+    "image": "https://prongbang.github.io/travel/api/v1/category/image/ic_forest.svg"
+  },
+  {
+    "id": 3,
+    "name": "Rafting",
+    "slug": "Rafting",
+    "image": "https://prongbang.github.io/travel/api/v1/category/image/ic_rafting.svg"
+  },
+  {
+    "id": 4,
+    "name": "Market",
+    "slug": "Market",
+    "image": "https://prongbang.github.io/travel/api/v1/category/image/ic_market.svg"
+  },
+  {
+    "id": 5,
+    "name": "Restaurant",
+    "slug": "Restaurant",
+    "image": "https://prongbang.github.io/travel/api/v1/category/image/ic_restaurant.svg"
+  },
+  {
+    "id": 6,
+    "name": "Amusement",
+    "slug": "Amusement",
+    "image": "https://prongbang.github.io/travel/api/v1/category/image/ic_amusement.svg"
+  },
+  {
+    "id": 7,
+    "name": "Temple",
+    "slug": "temple",
+    "image": "https://prongbang.github.io/travel/api/v1/category/image/ic_temple.png"
+  },
+  {
+    "id": 8,
+    "name": "Mountains",
+    "slug": "mountains",
+    "image": "https://prongbang.github.io/travel/api/v1/category/image/ic_mountains.svg"
+  },
+  {
+    "id": 9,
+    "name": "Plantation",
+    "slug": "plantation",
+    "image": "https://prongbang.github.io/travel/api/v1/category/image/ic_plantation.svg"
+  },
+  {
+    "id": 10,
+    "name": "City",
+    "slug": "city",
+    "image": "https://prongbang.github.io/travel/api/v1/category/image/ic_cityscape.svg"
+  },
+  {
+    "id": 11,
+    "name": "Other",
+    "slug": "Other",
+    "image": "https://prongbang.github.io/travel/api/v1/category/image/ic_tent.svg"
+  }
+]
